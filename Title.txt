@@ -1,0 +1,1 @@
+Rössler system inspired Deep Learning for Modelling Chaotic Systems

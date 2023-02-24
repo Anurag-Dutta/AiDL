@@ -1,0 +1,56 @@
+RAiDL
+______________________________________
+
+Bjørnøya Daily Downpour
+
+Test RMSE: 2.574
+Test MAE: 1.421
+Test Phys: 3.364
+
+San Juan Dengue virus Transmission
+
+Test RMSE: 17.185
+Test MAE: 11.817
+Test Phys: 28.317
+
+El Niño Surface Temperature of the Sea
+
+Test RMSE: 0.428
+Test MAE: 0.333
+Test Phys: 0.822
+
+LSTM
+______________________________________
+
+Bjørnøya Daily Downpour
+
+Test RMSE: 2.576
+Test MAE: 1.177
+
+San Juan Dengue virus Transmission
+
+Test RMSE: 34.460
+Test MAE: 4.258
+
+El Niño Surface Temperature of the Sea
+
+Test RMSE: 0.614
+Test MAE: 0.701
+
+CNN
+______________________________________
+
+Bjørnøya Daily Downpour
+
+Test RMSE: 2.601
+Test MAE: 1.205
+
+San Juan Dengue virus Transmission
+
+Test RMSE: 23.374
+Test MAE: 3.892
+
+El Niño Surface Temperature of the Sea
+
+Test RMSE: 0.858
+Test MAE: 0.845
